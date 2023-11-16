@@ -1,0 +1,3 @@
+Para abrir os arquivos clique 2 vezes no arquivo index.html para abrir 
+no seu navegador.
+
