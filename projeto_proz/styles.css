@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    background-color: rgb(28, 235, 235);
+}
+
+div ul{
+    background-color: rgb(28, 135, 235);
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+footer ul{
+    background-color: rgb(2, 3, 63);
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+main {
+    background-color: rgb(189, 241, 241);
+}
