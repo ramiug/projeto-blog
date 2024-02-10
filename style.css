@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'AnonymousPro';
+    src: url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap') format('truetype');
+  }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    color: greenyellow;
+    font-size: 35px;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace, bold;
+    font-size: 50px;
+    line-height: 0.7;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.main-content {
+    max-width: 1800px;
+    height: 500px; 
+    margin: 20px ;
+    padding: 0 20px;
+
+}
+
+
+.main-content img {
+    height: 80%;
+    width: 80%;
+    border-radius: 20px;
+
+}
+
+.featured-news h2 {
+    color: #333;
+    text-align: left;
+}
+
+.meta {
+    color: #777;
+}
+
+.other-news img {
+    height: 80%;
+    width: 80%;
+    border-radius: 20px;
+ }
+
+.other-news article {
+    margin-bottom: 20px;
+    width: 48%;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
